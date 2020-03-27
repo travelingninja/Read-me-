@@ -40,3 +40,6 @@ const styles = StyleSheet.create({
     textAlign: 'center',
   },
 });
+
+I can't wait to learn all about the coding world. 
+Thank you covid-19 for the time to do this. 
